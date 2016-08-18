@@ -1,2 +1,3 @@
-# Twitter-Bot
-Twitter Bot with Tweepy
+## Twitter Bot
+
+Simple twitter bot and little functions with Twitter API
